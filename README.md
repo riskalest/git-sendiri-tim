@@ -1,6 +1,6 @@
 Cara kerja Git + Github untuk Sendiri maupun Tim
 ================================================
-![SaaS](https://github.com/riskalest/tct/blob/master/minggu-02/SAAS.jpg)
+![SaaS](https://github.com/riskalest/git-sendiri-tim/blob/master/gi%2Bgithub.png)
 
 ## **Mengenal Git**
 
@@ -10,7 +10,7 @@ Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerj
 
 Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
-![SaaS](https://github.com/riskalest/tct/blob/master/minggu-02/SAAS.jpg)
+![SaaS](https://github.com/riskalest/git-sendiri-tim/blob/master/git_common.png)
 
 ## **Cara kerja Git + Github untuk sendiri maupun tim**
 
