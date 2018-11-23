@@ -1,5 +1,5 @@
-Cara kerja Git + Github untuk Sendiri maupun Tim
-================================================
+Git dan cara kerja Git + Github untuk Sendiri maupun Tim
+========================================================
 ![SaaS](https://github.com/riskalest/git-sendiri-tim/blob/master/gi%2Bgithub.png)
 
 ## **Mengenal Git**
